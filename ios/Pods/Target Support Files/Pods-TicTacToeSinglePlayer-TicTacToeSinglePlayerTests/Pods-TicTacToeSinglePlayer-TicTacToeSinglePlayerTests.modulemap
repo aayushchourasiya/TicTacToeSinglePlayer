@@ -1,0 +1,6 @@
+module Pods_TicTacToeSinglePlayer_TicTacToeSinglePlayerTests {
+  umbrella header "Pods-TicTacToeSinglePlayer-TicTacToeSinglePlayerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
